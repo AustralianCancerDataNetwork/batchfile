@@ -1,0 +1,7 @@
+{
+  "aet": "thecaller",
+  "aem": "thedestination",
+  "aec": "thecalled",
+  "ip": "ipofthecalled",
+  "port": 1234
+}
